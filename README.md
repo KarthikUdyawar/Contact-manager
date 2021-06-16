@@ -28,11 +28,6 @@
   </p>
 </p>
 
-
-<!-- # Contact-manager
- Store contact details using python -->
-
- 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -61,15 +56,75 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshots of project]()
+![Screenshots of project](https://github.com/KarthikUdyawar/Contact-manager/blob/main/Screenshots/Screenshot%20(1).png)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This is one of the excellent python projects for beginners. Everyone uses a contact book to save contact details, including name, address, phone number, and even email address. This is a command-line project where you will design a contact book application that users can use to save and find contact details. The application should also allow users to update contact information, delete contacts, and list saved contacts. The SQLite database is the ideal platform for saving contacts. Handle a project with **Python for beginners** can be helpful to build your career with a good start.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+### Built With
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+* [Python](https://www.python.org/)
+* [Database Browser for SQLite](https://sqlitebrowser.org/about/)
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+### Modules used
+* [PIL](https://pillow.readthedocs.io/en/stable/)
+* [tkinter](https://docs.python.org/3/library/tkinter.html)
+* [sqlite3](https://docs.python.org/3/library/sqlite3.html)
+* [os](https://docs.python.org/3/library/os.html)
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Prerequisites
+Make sour app have the latest version of python & pip installed.
+* pip
+  ```powershell
+  -m pip install –upgrade pip.
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```bash
+   git clone https://github.com/KarthikUdyawar/Contact-manager.git
+   ```
+2. Install packages from requirements.txt
+   ```powershell
+   pip install -r requirements.txt
+   ```
+3. Running the app
+   ```powershell
+   cd app
+   python main.py
+   ```
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [network](https://github.com/KarthikUdyawar/Contact-manager/network) for a list of proposed features from Contributes.
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See [`LICENSE`](https://github.com/KarthikUdyawar/Contact-manager/blob/main/LICENSE) for more information.
+
+<!-- CONTACT -->
+## Contact
+
+Instagram : [udyawarkarthik](https://www.instagram.com/udyawarkarthik/)
+
+Github : [https://github.com/KarthikUdyawar](https://github.com/KarthikUdyawar)
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* IOT
